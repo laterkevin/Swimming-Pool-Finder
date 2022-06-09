@@ -6,7 +6,8 @@ object SwimmingPoolExamplesData {
 
     val pool1 = SwimmingPoolData(
         name = "Sommerbad Kreuzberg",
-        address = "Prinzenstraße 113-119",
+        address = "Prinzenstraße 113-119, 10969 Berlin - Kreuzberg",
+        price = 3.5,
         openMonday = 7,
         closeMonday = 20,
         openTuesday = 7,
@@ -28,8 +29,8 @@ object SwimmingPoolExamplesData {
 
     val pool2 = SwimmingPoolData(
         name = "Sommerbad Pankow",
-        address = "Wolfshagener Straße 91-93\n" +
-                "13187 Berlin - Pankow",
+        address = "Wolfshagener Straße 91-93, 13187 Berlin - Pankow",
+        price = 3.2,
         openMonday = 10,
         closeMonday = 18,
         openTuesday = 10,
@@ -51,8 +52,8 @@ object SwimmingPoolExamplesData {
 
     val pool3 = SwimmingPoolData(
         name = "Stadtbad Mitte",
-        address = "Gartenstraße 5\n" +
-                "10115 Berlin - Mitte",
+        address = "Gartenstraße 5, 10115 Berlin - Mitte",
+        price = 4.3,
         openMonday = 6,
         closeMonday = 18,
         openTuesday = 6,
@@ -74,8 +75,8 @@ object SwimmingPoolExamplesData {
 
     val pool4 = SwimmingPoolData(
         name = "Schwimmhalle Kaulsdorf",
-        address = "Clara-Zetkin-Weg 13\n" +
-                "12619 Berlin - Kaulsdorf",
+        address = "Clara-Zetkin-Weg 13, 12619 Berlin - Kaulsdorf",
+        price = 4.1,
         openMonday = 6,
         closeMonday = 8,
         openTuesday = 6,
@@ -97,8 +98,8 @@ object SwimmingPoolExamplesData {
 
     val pool5 = SwimmingPoolData(
         name = "Kombibad Spandau Süd",
-        address = "Gatower Straße 19\n" +
-                "13595 Berlin - Spandau",
+        address = "Gatower Straße 19, 13595 Berlin - Spandau",
+        price = 3.6,
         openMonday = 7,
         closeMonday = 20,
         openTuesday = 7,
